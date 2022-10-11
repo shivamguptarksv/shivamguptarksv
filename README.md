@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamguptarksv
+- 👋 Hi, I’m Shivam Kumar Gupta
 - 👀 I’m interested in developing iOS, Android, Web full stack Application developement .
 - 🌱 I’m currently learning Swift, Cocoapod, Rest API, Token and exploring knowledge in new features in iOS .
 - 📫 How to reach me https://www.linkedin.com/in/shivam-kumar-gupta-843983192/
