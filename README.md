@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Shivam Kumar Gupta
-- 👀 I’m interested in developing iOS, Android, Web full stack Application developement .
-- 🌱 I’m currently learning Swift, Cocoapod, Rest API, Token and exploring knowledge in new features in iOS .
+
+Experienced iOS Developer with 3+ years of expertise in building high-performance, scalable apps using Swift, UIKit, and MVVM
+architecture. Proven track record of delivering user-centric solutions impacting over 3 million users. Skilled in UI/UX design,
+performance optimization, and collaborating with cross-functional teams to simplify complex requirements. Strong
+problem-solving mindset with a focus on clean architecture and eﬃcient app delivery.
+
 - 📫 How to reach me https://www.linkedin.com/in/shivam-kumar-gupta-843983192/
+
+Resume: https://drive.google.com/file/d/1Ith4tNuWm0EN-dRNfRa7-Q-NVuu5omGW/view?usp=sharing
 
 <!---
 shivamguptarksv/shivamguptarksv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
