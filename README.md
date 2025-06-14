@@ -5,7 +5,7 @@ architecture. Proven track record of delivering user-centric solutions impacting
 performance optimization, and collaborating with cross-functional teams to simplify complex requirements. Strong
 problem-solving mindset with a focus on clean architecture and eﬃcient app delivery.
 
-- 📫 How to reach me https://www.linkedin.com/in/shivam-kumar-gupta-843983192/
+📫 How to reach me https://www.linkedin.com/in/shivam-kumar-gupta-843983192/
 
 Resume: https://drive.google.com/file/d/1Ith4tNuWm0EN-dRNfRa7-Q-NVuu5omGW/view?usp=sharing
 
