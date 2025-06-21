@@ -13,3 +13,5 @@ Resume: https://drive.google.com/file/d/1Ith4tNuWm0EN-dRNfRa7-Q-NVuu5omGW/view?u
 shivamguptarksv/shivamguptarksv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![lightX](https://github.com/user-attachments/assets/41f91c3f-a329-43ae-9ae6-bd0e7cad3aa3)
